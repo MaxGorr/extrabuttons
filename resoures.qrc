@@ -1,0 +1,7 @@
+<RCC>
+    <qresource>
+        <file>images/Edit.png</file>
+        <file>images/Minimize.png</file>
+        <file>images/Reload.png</file>
+    </qresource>
+</RCC>
