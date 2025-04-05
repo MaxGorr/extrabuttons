@@ -20,7 +20,7 @@ namespace {
         "  </vars>\n"
         "  <cmds>\n"
         "    <!-- <cmd name=\"justName\" val=\"path/to/file\" /> -->\n"
-        "    <!-- You can use varibales: -->\n"
+        "    <!-- You can use variables: -->\n"
         "    <!-- <cmd name=\"useSysVar\" val=\"${SYS_VAR}/file\" /> -->\n"
         "    <!-- <cmd name=\"useVarFromVars\" val=\"${VAR_FROM_VARS}/file\" /> -->\n"
         "    <!-- Command with shortcut \"Alt+S\": -->\n"
